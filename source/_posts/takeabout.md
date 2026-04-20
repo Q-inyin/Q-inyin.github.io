@@ -2,6 +2,8 @@
 title: 欢迎回来
 date: 2026-04-20 21:26:21
 tags: ['博客']
+aplayer: true
+toc: true
 cover: /images/emen3.jpg
 ---
 
